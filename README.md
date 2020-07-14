@@ -10,6 +10,6 @@ notes:
       The 0 ohm resistor R7 is not recommended for battery operation, if not populatet the led will not 
       light on, when the signal is triggered by the countdown in the watchdog timer, to save power
       
-      Components are named on the pcb with walues, and can be replaced for another trigger time for the NE555 timer
+      Components are named on the pcb with walues, and can be replaced for another trigger time for the NE555 timer current triggertime are 100mS
       
       Sizes for footprints are 0603, so-8 and sot-23
